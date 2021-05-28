@@ -1,0 +1,9 @@
+os
+sys
+numpy
+keras == 2.4.1
+opencv-python == 3.4.2
+scikit-learn ==0.24.1
+tensorflow == 2.4.3
+matplotlib == 3.3.4
+
