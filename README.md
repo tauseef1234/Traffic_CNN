@@ -15,6 +15,6 @@ The base model consists of the following layers:
 1. Conv2D layer
 2. MaxPool layer
 3. Flatten layer
-4. Dense layer
+4. Output layer
 
 In further iterations, mulitple Conv2D layers were added to improve model accuracy. The model accuracy results are compared in the python notebook.
