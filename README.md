@@ -17,4 +17,4 @@ The base model consists of the following layers:
 3. Flatten layer
 4. Output layer
 
-In further iterations, mulitple Conv2D layers were added to improve model accuracy. The model accuracy results are compared in the python notebook.
+In further iterations, mulitple Conv2D layers and a fully connecter layer were added to improve model accuracy. The model accuracy results are compared in the python notebook.
